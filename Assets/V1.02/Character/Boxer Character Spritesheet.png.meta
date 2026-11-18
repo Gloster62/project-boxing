@@ -1,0 +1,3083 @@
+fileFormatVersion: 2
+guid: 3ef2b570929053067bc9254fa433dad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1028534868056398529
+    second: Boxer Character Spritesheet_0
+  - first:
+      213: 5930609934832032974
+    second: Boxer Character Spritesheet_1
+  - first:
+      213: 103220388366896643
+    second: Boxer Character Spritesheet_2
+  - first:
+      213: 942202680855446568
+    second: Boxer Character Spritesheet_3
+  - first:
+      213: -6016659771768516062
+    second: Boxer Character Spritesheet_4
+  - first:
+      213: 1246652092449249496
+    second: Boxer Character Spritesheet_5
+  - first:
+      213: 8332231629379073388
+    second: Boxer Character Spritesheet_6
+  - first:
+      213: -3147766396009292503
+    second: Boxer Character Spritesheet_7
+  - first:
+      213: 1692231330005009564
+    second: Boxer Character Spritesheet_8
+  - first:
+      213: 4202902692627476583
+    second: Boxer Character Spritesheet_9
+  - first:
+      213: -6573078718986916735
+    second: Boxer Character Spritesheet_10
+  - first:
+      213: 6706609613781250603
+    second: Boxer Character Spritesheet_11
+  - first:
+      213: 4921578439563628098
+    second: Boxer Character Spritesheet_12
+  - first:
+      213: 5776636332732027386
+    second: Boxer Character Spritesheet_13
+  - first:
+      213: 8958439258061800214
+    second: Boxer Character Spritesheet_14
+  - first:
+      213: 3981748057680322727
+    second: Boxer Character Spritesheet_15
+  - first:
+      213: -8796828193185803045
+    second: Boxer Character Spritesheet_16
+  - first:
+      213: -7965383420843093729
+    second: Boxer Character Spritesheet_17
+  - first:
+      213: -2648084117861756237
+    second: Boxer Character Spritesheet_18
+  - first:
+      213: -6646030424797563646
+    second: Boxer Character Spritesheet_19
+  - first:
+      213: 2027844906597648747
+    second: Boxer Character Spritesheet_20
+  - first:
+      213: 4408184064550961158
+    second: Boxer Character Spritesheet_21
+  - first:
+      213: -7433278718484524484
+    second: Boxer Character Spritesheet_22
+  - first:
+      213: 5479047058773479120
+    second: Boxer Character Spritesheet_23
+  - first:
+      213: 2285390738096001714
+    second: Boxer Character Spritesheet_24
+  - first:
+      213: 8629356027488241927
+    second: Boxer Character Spritesheet_25
+  - first:
+      213: 166003548944158184
+    second: Boxer Character Spritesheet_26
+  - first:
+      213: 617302313971453772
+    second: Boxer Character Spritesheet_27
+  - first:
+      213: -3125262190215710583
+    second: Boxer Character Spritesheet_28
+  - first:
+      213: 7584078461080987937
+    second: Boxer Character Spritesheet_29
+  - first:
+      213: -2409625027604831639
+    second: Boxer Character Spritesheet_30
+  - first:
+      213: 4619718082433260701
+    second: Boxer Character Spritesheet_31
+  - first:
+      213: -8215509666986558891
+    second: Boxer Character Spritesheet_32
+  - first:
+      213: -8290134101854585314
+    second: Boxer Character Spritesheet_33
+  - first:
+      213: 78446194469844224
+    second: Boxer Character Spritesheet_34
+  - first:
+      213: 8772828555122219390
+    second: Boxer Character Spritesheet_35
+  - first:
+      213: 8073001434757261586
+    second: Boxer Character Spritesheet_36
+  - first:
+      213: 4978795097281738182
+    second: Boxer Character Spritesheet_37
+  - first:
+      213: 3242259983755291935
+    second: Boxer Character Spritesheet_38
+  - first:
+      213: -6512703529220301898
+    second: Boxer Character Spritesheet_39
+  - first:
+      213: -695905593002141663
+    second: Boxer Character Spritesheet_40
+  - first:
+      213: -8870448961168719519
+    second: Boxer Character Spritesheet_41
+  - first:
+      213: 3949688635458792998
+    second: Boxer Character Spritesheet_42
+  - first:
+      213: 9152727519201485830
+    second: Boxer Character Spritesheet_43
+  - first:
+      213: 3362173706874728367
+    second: Boxer Character Spritesheet_44
+  - first:
+      213: 317444745672781410
+    second: Boxer Character Spritesheet_45
+  - first:
+      213: -1185440089944369729
+    second: Boxer Character Spritesheet_46
+  - first:
+      213: -4943812332632071835
+    second: Boxer Character Spritesheet_47
+  - first:
+      213: -6170732976312965133
+    second: Boxer Character Spritesheet_48
+  - first:
+      213: 8211839574702520803
+    second: Boxer Character Spritesheet_49
+  - first:
+      213: -3840144255635404830
+    second: Boxer Character Spritesheet_50
+  - first:
+      213: 8556261024385050930
+    second: Boxer Character Spritesheet_51
+  - first:
+      213: -7881796075805213525
+    second: Boxer Character Spritesheet_52
+  - first:
+      213: 1882787680276112758
+    second: Boxer Character Spritesheet_53
+  - first:
+      213: 7652636566743840352
+    second: Boxer Character Spritesheet_54
+  - first:
+      213: 8222938074457268702
+    second: Boxer Character Spritesheet_55
+  - first:
+      213: 4543694395496788147
+    second: Boxer Character Spritesheet_56
+  - first:
+      213: -5360442200528125536
+    second: Boxer Character Spritesheet_57
+  - first:
+      213: -1414116688930724744
+    second: Boxer Character Spritesheet_58
+  - first:
+      213: 1055717381153535234
+    second: Boxer Character Spritesheet_59
+  - first:
+      213: 4121673510951444254
+    second: Boxer Character Spritesheet_60
+  - first:
+      213: 3922191996937841361
+    second: Boxer Character Spritesheet_61
+  - first:
+      213: 8252843540019513233
+    second: Boxer Character Spritesheet_62
+  - first:
+      213: -3407123877048619259
+    second: Boxer Character Spritesheet_63
+  - first:
+      213: -370848661088301218
+    second: Boxer Character Spritesheet_64
+  - first:
+      213: -5770823180905973662
+    second: Boxer Character Spritesheet_65
+  - first:
+      213: 2078477764470026900
+    second: Boxer Character Spritesheet_66
+  - first:
+      213: -5700484004828708353
+    second: Boxer Character Spritesheet_67
+  - first:
+      213: 6552218671223353745
+    second: Boxer Character Spritesheet_68
+  - first:
+      213: -3025304871670925633
+    second: Boxer Character Spritesheet_69
+  - first:
+      213: -8769685079123183897
+    second: Boxer Character Spritesheet_70
+  - first:
+      213: -4864397407045043635
+    second: Boxer Character Spritesheet_71
+  - first:
+      213: 1849239184908365968
+    second: Boxer Character Spritesheet_72
+  - first:
+      213: 7385145999905498402
+    second: Boxer Character Spritesheet_73
+  - first:
+      213: -8797564451756297489
+    second: Boxer Character Spritesheet_74
+  - first:
+      213: 9132218426369930312
+    second: Boxer Character Spritesheet_75
+  - first:
+      213: 8458721921935627936
+    second: Boxer Character Spritesheet_76
+  - first:
+      213: -1325267942629843484
+    second: Boxer Character Spritesheet_77
+  - first:
+      213: 8714388127487741205
+    second: Boxer Character Spritesheet_78
+  - first:
+      213: -7401436294984943352
+    second: Boxer Character Spritesheet_79
+  - first:
+      213: -8923526006155041554
+    second: Boxer Character Spritesheet_80
+  - first:
+      213: 1272377190177554493
+    second: Boxer Character Spritesheet_81
+  - first:
+      213: 4656894254313843008
+    second: Boxer Character Spritesheet_82
+  - first:
+      213: 9122449543777358085
+    second: Boxer Character Spritesheet_83
+  - first:
+      213: -5357301496982086317
+    second: Boxer Character Spritesheet_84
+  - first:
+      213: -4193300143207323770
+    second: Boxer Character Spritesheet_85
+  - first:
+      213: -773009508817560105
+    second: Boxer Character Spritesheet_86
+  - first:
+      213: 3537675554187891520
+    second: Boxer Character Spritesheet_87
+  - first:
+      213: 8316934475260892248
+    second: Boxer Character Spritesheet_88
+  - first:
+      213: 8224839349344885501
+    second: Boxer Character Spritesheet_89
+  - first:
+      213: -6968057455352518545
+    second: Boxer Character Spritesheet_90
+  - first:
+      213: -3264071709840522929
+    second: Boxer Character Spritesheet_91
+  - first:
+      213: 170188698937789818
+    second: Boxer Character Spritesheet_92
+  - first:
+      213: -4525596710516527523
+    second: Boxer Character Spritesheet_93
+  - first:
+      213: 7663700213557906672
+    second: Boxer Character Spritesheet_94
+  - first:
+      213: 2809894736509498165
+    second: Boxer Character Spritesheet_95
+  - first:
+      213: -6021322728613587505
+    second: Boxer Character Spritesheet_96
+  - first:
+      213: 422785630323248511
+    second: Boxer Character Spritesheet_97
+  - first:
+      213: 1294359851049800795
+    second: Boxer Character Spritesheet_98
+  - first:
+      213: 7301703145163671573
+    second: Boxer Character Spritesheet_99
+  - first:
+      213: -9000763463126693599
+    second: Boxer Character Spritesheet_100
+  - first:
+      213: -9032577298681981684
+    second: Boxer Character Spritesheet_101
+  - first:
+      213: 4929935890075422787
+    second: Boxer Character Spritesheet_102
+  - first:
+      213: 5358201969250052516
+    second: Boxer Character Spritesheet_103
+  - first:
+      213: 7327501292912016621
+    second: Boxer Character Spritesheet_104
+  - first:
+      213: 5995955450883476621
+    second: Boxer Character Spritesheet_105
+  - first:
+      213: 1178225717728614720
+    second: Boxer Character Spritesheet_106
+  - first:
+      213: 5064106487654418261
+    second: Boxer Character Spritesheet_107
+  - first:
+      213: 5991089835729563356
+    second: Boxer Character Spritesheet_108
+  - first:
+      213: -7095216124006607629
+    second: Boxer Character Spritesheet_109
+  - first:
+      213: -1534307195442887322
+    second: Boxer Character Spritesheet_110
+  - first:
+      213: 6215180069883782650
+    second: Boxer Character Spritesheet_111
+  - first:
+      213: -3488041599119830883
+    second: Boxer Character Spritesheet_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1543
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352566acf8e9b1f0800000000000000
+      internalID: -1028534868056398529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1543
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd0136052cd4250800000000000000
+      internalID: 5930609934832032974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1543
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ecf267566be6100800000000000000
+      internalID: 103220388366896643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1543
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244fc2a850631d00800000000000000
+      internalID: 942202680855446568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1543
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222da51b0d7808ca0800000000000000
+      internalID: -6016659771768516062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1543
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d85fe8197ffc4110800000000000000
+      internalID: 1246652092449249496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f967558802a370800000000000000
+      internalID: 8332231629379073388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1478
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d54f1f323e054d0800000000000000
+      internalID: -3147766396009292503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1478
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c944cb6cd630c7710800000000000000
+      internalID: 1692231330005009564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1415
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f7932bb5b35a30800000000000000
+      internalID: 4202902692627476583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1415
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cea121bbbb7c4a0800000000000000
+      internalID: -6573078718986916735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1415
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22b6ac19e9a21d50800000000000000
+      internalID: 6706609613781250603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1415
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e4960e385fc4440800000000000000
+      internalID: 4921578439563628098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1416
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19b11832cba2050800000000000000
+      internalID: 5776636332732027386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1351
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61300b69a05c25c70800000000000000
+      internalID: 8958439258061800214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1351
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0232323c2024730800000000000000
+      internalID: 3981748057680322727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1352
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d40bad536be580800000000000000
+      internalID: -8796828193185803045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1352
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f119cdc2bf5457190800000000000000
+      internalID: -7965383420843093729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1352
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21f73668d104bd0800000000000000
+      internalID: -2648084117861756237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1352
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205b0837a8e84c3a0800000000000000
+      internalID: -6646030424797563646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1352
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698655d23a542c10800000000000000
+      internalID: 2027844906597648747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1287
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60009181d040d2d30800000000000000
+      internalID: 4408184064550961158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1288
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3252448360b7d890800000000000000
+      internalID: -7433278718484524484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1288
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de87dd454c790c40800000000000000
+      internalID: 5479047058773479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1288
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b21e2d84c657bf10800000000000000
+      internalID: 2285390738096001714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1288
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70900d23691a1c770800000000000000
+      internalID: 8629356027488241927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1288
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed45462953cd4200800000000000000
+      internalID: 166003548944158184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1288
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f8b471f29119800800000000000000
+      internalID: 617302313971453772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1224
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988bb3aa896d0a4d0800000000000000
+      internalID: -3125262190215710583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1225
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1296c6d9d2f004960800000000000000
+      internalID: 7584078461080987937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1224
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96229bbddca4f8ed0800000000000000
+      internalID: -2409625027604831639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1159
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c12e1ae198c1040800000000000000
+      internalID: 4619718082433260701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1159
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7a7a4c75acfd80800000000000000
+      internalID: -8215509666986558891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1160
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1efa9615f683fc80800000000000000
+      internalID: -8290134101854585314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1160
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0053b53f562b61100800000000000000
+      internalID: 78446194469844224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1159
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79967727195fb970800000000000000
+      internalID: 8772828555122219390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1159
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219ece54800190070800000000000000
+      internalID: 8073001434757261586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1159
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c53fee13cb381540800000000000000
+      internalID: 4978795097281738182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1159
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da239e642defc20800000000000000
+      internalID: 3242259983755291935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1095
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb146d55aa3e95a0800000000000000
+      internalID: -6512703529220301898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1096
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12856ebdc85a756f0800000000000000
+      internalID: -695905593002141663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1097
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614e4fdaa5d5e480800000000000000
+      internalID: -8870448961168719519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1031
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2be933ec10d630800000000000000
+      internalID: 3949688635458792998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1031
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60462fb7f25050f70800000000000000
+      internalID: 9152727519201485830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1031
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2d6f3c27d8ae20800000000000000
+      internalID: 3362173706874728367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1031
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ee3a5705ac76400800000000000000
+      internalID: 317444745672781410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1031
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5db58d4887c8fe0800000000000000
+      internalID: -1185440089944369729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1031
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561254d70ec046bb0800000000000000
+      internalID: -4943812332632071835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1032
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7a31f4d072d5aa0800000000000000
+      internalID: -6170732976312965133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1032
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e973a2c59056f170800000000000000
+      internalID: 8211839574702520803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 968
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7489c352115bac0800000000000000
+      internalID: -3840144255635404830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 968
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239adf39112fdb670800000000000000
+      internalID: 8556261024385050930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 968
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacff858a3c3e9290800000000000000
+      internalID: -7881796075805213525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 904
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e6567b61012a10800000000000000
+      internalID: 1882787680276112758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 904
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0667eeb7960a33a60800000000000000
+      internalID: 7652636566743840352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 904
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16f0a9c9ebd1270800000000000000
+      internalID: 8222938074457268702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 903
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f48baaf17e0f30800000000000000
+      internalID: 4543694395496788147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 838
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1028e2832eb95b0800000000000000
+      internalID: -5360442200528125536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 838
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874255d1d5c006ce0800000000000000
+      internalID: -1414116688930724744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 839
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205bcde5d59a6ae00800000000000000
+      internalID: 1055717381153535234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 775
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd56c7830233930800000000000000
+      internalID: 4121673510951444254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 775
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2c5e27dc6e6630800000000000000
+      internalID: 3922191996937841361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 775
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978db5697df78270800000000000000
+      internalID: 8252843540019513233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 711
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe3c2b2e677b0d0800000000000000
+      internalID: -3407123877048619259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 711
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f076a8b1b7adaf0800000000000000
+      internalID: -370848661088301218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 647
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268728064eae9efa0800000000000000
+      internalID: -5770823180905973662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 647
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492b8c8b38c38dc10800000000000000
+      internalID: 2078477764470026900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 647
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff183640000d3e0b0800000000000000
+      internalID: -5700484004828708353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 583
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19133f49a282eea50800000000000000
+      internalID: 6552218671223353745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 583
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6bbca7f35f306d0800000000000000
+      internalID: -3025304871670925633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 583
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b1d262e1db4680800000000000000
+      internalID: -8769685079123183897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 583
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4abfbab4503e7cb0800000000000000
+      internalID: -4864397407045043635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0903231bd31d9a910800000000000000
+      internalID: 1849239184908365968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a3c2a82f4d7660800000000000000
+      internalID: 7385145999905498402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2367c1eb5c8e580800000000000000
+      internalID: -8797564451756297489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 519
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447e0336482cbe70800000000000000
+      internalID: 9132218426369930312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 455
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a658c295ca636570800000000000000
+      internalID: 8458721921935627936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 455
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edd557e3d3bb9de0800000000000000
+      internalID: -1325267942629843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 455
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc9c5c4d9bfe870800000000000000
+      internalID: 8714388127487741205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 455
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093db977e0d84990800000000000000
+      internalID: -7401436294984943352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 391
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42b235064492480800000000000000
+      internalID: -8923526006155041554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 390
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c7d8205468a110800000000000000
+      internalID: 1272377190177554493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 390
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0492fe8a6ac90a040800000000000000
+      internalID: 4656894254313843008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 326
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501164af683799e70800000000000000
+      internalID: 9122449543777358085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 326
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd6b53caa07a5b0800000000000000
+      internalID: -5357301496982086317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 326
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687688f9cb76ec5c0800000000000000
+      internalID: -4193300143207323770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 327
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd1ee282f7b545f0800000000000000
+      internalID: -773009508817560105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 327
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d3f15c29581130800000000000000
+      internalID: 3537675554187891520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854102a17dfab6370800000000000000
+      internalID: 8316934475260892248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 264
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5b58afcf742270800000000000000
+      internalID: 8224839349344885501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 262
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f686337a9ac7c4f90800000000000000
+      internalID: -6968057455352518545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 262
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41cd8dd210b3b2d0800000000000000
+      internalID: -3264071709840522929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 261
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d09f058b1ac5200800000000000000
+      internalID: 170188698937789818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6cf8f4c9d131c0800000000000000
+      internalID: -4525596710516527523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 263
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc443e7dbeea5a60800000000000000
+      internalID: 7663700213557906672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 261
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53373e91060cef620800000000000000
+      internalID: 2809894736509498165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 258
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5500371e6ff6ca0800000000000000
+      internalID: -6021322728613587505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 259
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8e8f6a490ed500800000000000000
+      internalID: 422785630323248511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 199
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54d95d3d6d76f110800000000000000
+      internalID: 1294359851049800795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51845de035cd45560800000000000000
+      internalID: 7301703145163671573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 198
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c401815dd61380800000000000000
+      internalID: -9000763463126693599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 198
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059dc1bdc6d5a280800000000000000
+      internalID: -9032577298681981684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 198
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34015657296aa6440800000000000000
+      internalID: 4929935890075422787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 136
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a2f35d482c5a40800000000000000
+      internalID: 5358201969250052516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 136
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7c376a9380b560800000000000000
+      internalID: 7327501292912016621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 136
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0af2f6b9e53350800000000000000
+      internalID: 5995955450883476621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 136
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049917a3c06e95010800000000000000
+      internalID: 1178225717728614720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557846d0502574640800000000000000
+      internalID: 5064106487654418261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 71
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2d14a670a42350800000000000000
+      internalID: 5991089835729563356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 71
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f456fbf68ab88d90800000000000000
+      internalID: -7095216124006607629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650d4f1cbb05bae0800000000000000
+      internalID: -1534307195442887322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 35
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a2881851c04650800000000000000
+      internalID: 6215180069883782650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxer Character Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d905da265acf79fc0800000000000000
+      internalID: -3488041599119830883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boxer Character Spritesheet_0: -1028534868056398529
+      Boxer Character Spritesheet_1: 5930609934832032974
+      Boxer Character Spritesheet_10: -6573078718986916735
+      Boxer Character Spritesheet_100: -9000763463126693599
+      Boxer Character Spritesheet_101: -9032577298681981684
+      Boxer Character Spritesheet_102: 4929935890075422787
+      Boxer Character Spritesheet_103: 5358201969250052516
+      Boxer Character Spritesheet_104: 7327501292912016621
+      Boxer Character Spritesheet_105: 5995955450883476621
+      Boxer Character Spritesheet_106: 1178225717728614720
+      Boxer Character Spritesheet_107: 5064106487654418261
+      Boxer Character Spritesheet_108: 5991089835729563356
+      Boxer Character Spritesheet_109: -7095216124006607629
+      Boxer Character Spritesheet_11: 6706609613781250603
+      Boxer Character Spritesheet_110: -1534307195442887322
+      Boxer Character Spritesheet_111: 6215180069883782650
+      Boxer Character Spritesheet_112: -3488041599119830883
+      Boxer Character Spritesheet_12: 4921578439563628098
+      Boxer Character Spritesheet_13: 5776636332732027386
+      Boxer Character Spritesheet_14: 8958439258061800214
+      Boxer Character Spritesheet_15: 3981748057680322727
+      Boxer Character Spritesheet_16: -8796828193185803045
+      Boxer Character Spritesheet_17: -7965383420843093729
+      Boxer Character Spritesheet_18: -2648084117861756237
+      Boxer Character Spritesheet_19: -6646030424797563646
+      Boxer Character Spritesheet_2: 103220388366896643
+      Boxer Character Spritesheet_20: 2027844906597648747
+      Boxer Character Spritesheet_21: 4408184064550961158
+      Boxer Character Spritesheet_22: -7433278718484524484
+      Boxer Character Spritesheet_23: 5479047058773479120
+      Boxer Character Spritesheet_24: 2285390738096001714
+      Boxer Character Spritesheet_25: 8629356027488241927
+      Boxer Character Spritesheet_26: 166003548944158184
+      Boxer Character Spritesheet_27: 617302313971453772
+      Boxer Character Spritesheet_28: -3125262190215710583
+      Boxer Character Spritesheet_29: 7584078461080987937
+      Boxer Character Spritesheet_3: 942202680855446568
+      Boxer Character Spritesheet_30: -2409625027604831639
+      Boxer Character Spritesheet_31: 4619718082433260701
+      Boxer Character Spritesheet_32: -8215509666986558891
+      Boxer Character Spritesheet_33: -8290134101854585314
+      Boxer Character Spritesheet_34: 78446194469844224
+      Boxer Character Spritesheet_35: 8772828555122219390
+      Boxer Character Spritesheet_36: 8073001434757261586
+      Boxer Character Spritesheet_37: 4978795097281738182
+      Boxer Character Spritesheet_38: 3242259983755291935
+      Boxer Character Spritesheet_39: -6512703529220301898
+      Boxer Character Spritesheet_4: -6016659771768516062
+      Boxer Character Spritesheet_40: -695905593002141663
+      Boxer Character Spritesheet_41: -8870448961168719519
+      Boxer Character Spritesheet_42: 3949688635458792998
+      Boxer Character Spritesheet_43: 9152727519201485830
+      Boxer Character Spritesheet_44: 3362173706874728367
+      Boxer Character Spritesheet_45: 317444745672781410
+      Boxer Character Spritesheet_46: -1185440089944369729
+      Boxer Character Spritesheet_47: -4943812332632071835
+      Boxer Character Spritesheet_48: -6170732976312965133
+      Boxer Character Spritesheet_49: 8211839574702520803
+      Boxer Character Spritesheet_5: 1246652092449249496
+      Boxer Character Spritesheet_50: -3840144255635404830
+      Boxer Character Spritesheet_51: 8556261024385050930
+      Boxer Character Spritesheet_52: -7881796075805213525
+      Boxer Character Spritesheet_53: 1882787680276112758
+      Boxer Character Spritesheet_54: 7652636566743840352
+      Boxer Character Spritesheet_55: 8222938074457268702
+      Boxer Character Spritesheet_56: 4543694395496788147
+      Boxer Character Spritesheet_57: -5360442200528125536
+      Boxer Character Spritesheet_58: -1414116688930724744
+      Boxer Character Spritesheet_59: 1055717381153535234
+      Boxer Character Spritesheet_6: 8332231629379073388
+      Boxer Character Spritesheet_60: 4121673510951444254
+      Boxer Character Spritesheet_61: 3922191996937841361
+      Boxer Character Spritesheet_62: 8252843540019513233
+      Boxer Character Spritesheet_63: -3407123877048619259
+      Boxer Character Spritesheet_64: -370848661088301218
+      Boxer Character Spritesheet_65: -5770823180905973662
+      Boxer Character Spritesheet_66: 2078477764470026900
+      Boxer Character Spritesheet_67: -5700484004828708353
+      Boxer Character Spritesheet_68: 6552218671223353745
+      Boxer Character Spritesheet_69: -3025304871670925633
+      Boxer Character Spritesheet_7: -3147766396009292503
+      Boxer Character Spritesheet_70: -8769685079123183897
+      Boxer Character Spritesheet_71: -4864397407045043635
+      Boxer Character Spritesheet_72: 1849239184908365968
+      Boxer Character Spritesheet_73: 7385145999905498402
+      Boxer Character Spritesheet_74: -8797564451756297489
+      Boxer Character Spritesheet_75: 9132218426369930312
+      Boxer Character Spritesheet_76: 8458721921935627936
+      Boxer Character Spritesheet_77: -1325267942629843484
+      Boxer Character Spritesheet_78: 8714388127487741205
+      Boxer Character Spritesheet_79: -7401436294984943352
+      Boxer Character Spritesheet_8: 1692231330005009564
+      Boxer Character Spritesheet_80: -8923526006155041554
+      Boxer Character Spritesheet_81: 1272377190177554493
+      Boxer Character Spritesheet_82: 4656894254313843008
+      Boxer Character Spritesheet_83: 9122449543777358085
+      Boxer Character Spritesheet_84: -5357301496982086317
+      Boxer Character Spritesheet_85: -4193300143207323770
+      Boxer Character Spritesheet_86: -773009508817560105
+      Boxer Character Spritesheet_87: 3537675554187891520
+      Boxer Character Spritesheet_88: 8316934475260892248
+      Boxer Character Spritesheet_89: 8224839349344885501
+      Boxer Character Spritesheet_9: 4202902692627476583
+      Boxer Character Spritesheet_90: -6968057455352518545
+      Boxer Character Spritesheet_91: -3264071709840522929
+      Boxer Character Spritesheet_92: 170188698937789818
+      Boxer Character Spritesheet_93: -4525596710516527523
+      Boxer Character Spritesheet_94: 7663700213557906672
+      Boxer Character Spritesheet_95: 2809894736509498165
+      Boxer Character Spritesheet_96: -6021322728613587505
+      Boxer Character Spritesheet_97: 422785630323248511
+      Boxer Character Spritesheet_98: 1294359851049800795
+      Boxer Character Spritesheet_99: 7301703145163671573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
