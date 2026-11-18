@@ -6,11 +6,12 @@ public abstract class Singelton<T> : MonoBehaviour where T : MonoBehaviour
 
     protected virtual void Awake()
     {
-        if (Instance == null)
+        if (Instance != null)
         {
             Destroy(gameObject);
             return;
         }
+        Instance = this as T;
     }
 
     protected virtual void OnApplicationQuit()

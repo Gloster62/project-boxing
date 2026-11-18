@@ -21,18 +21,20 @@ public class HandView : MonoBehaviour
     {
         if (cards.Count == 0) yield break;
         float cardSpacing = 1f / 10f;
-        float firstCardPosition = 0.5f - (cards.Count / 1) * cardSpacing / 2;
-        Spline spline = splineContainer.Spline;
+        float firstCardPosition = 0.5f - (cards.Count - 1) * cardSpacing / 2f;
         for (int i = 0; i < cards.Count; i++)
         {
             float p = firstCardPosition + i * cardSpacing;
-            Vector3 splinePosition = spline.EvaluatePosition(p);
-            Vector3 forward = spline.EvaluateTangent(p);
-            Vector3 up = spline.EvaluateUpVector(p);
-            Quaternion rotation = Quaternion.LookRotation(-up, Vector3.Cross(-up, forward).normalized);
-            cards[i].transform.DOMove(splinePosition + transform.position+0.01f*i*Vector3.back, duration);
+            Vector3 splinePosition = splineContainer.EvaluatePosition(p);
+            Vector3 tangent = splineContainer.EvaluateTangent(p);
+            // Fan the cards in the XY plane so their faces stay visible to the 2D camera.
+            float angle = Mathf.Atan2(tangent.y, tangent.x) * Mathf.Rad2Deg;
+            Quaternion rotation = Quaternion.Euler(0f, 0f, angle);
+            splinePosition.z = transform.position.z - 0.01f * i;
+            cards[i].transform.DOMove(splinePosition, duration);
             cards[i].transform.DORotate(rotation.eulerAngles, duration);
         }
         yield return new WaitForSeconds(duration);
+        
     }
 }

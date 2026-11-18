@@ -621,6 +621,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &379603684 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8998088818610908207, guid: a2e819613330a5ad19411d6670787273, type: 3}
+  m_PrefabInstance: {fileID: 980580863}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e52286a036a7d61879532bf967a2e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardView
 --- !u!1 &442612372
 GameObject:
   m_ObjectHideFlags: 0
@@ -1187,6 +1198,79 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!1001 &980580863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1343404177646068860, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4640401709940398242, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_Name
+      value: CardViewHover
+      objectReference: {fileID: 0}
+    - target: {fileID: 4640401709940398242, guid: a2e819613330a5ad19411d6670787273, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a2e819613330a5ad19411d6670787273, type: 3}
 --- !u!1 &991846092
 GameObject:
   m_ObjectHideFlags: 0
@@ -1288,6 +1372,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1002982350}
+  - component: {fileID: 1002982351}
   m_Layer: 0
   m_Name: HandView
   m_TagString: Untagged
@@ -1311,6 +1396,19 @@ Transform:
   - {fileID: 1050584850}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1002982351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002982349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2da5be06d8bdd36b924fae011d345f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HandView
+  splineContainer: {fileID: 1050584851}
 --- !u!1 &1032191939
 GameObject:
   m_ObjectHideFlags: 0
@@ -1535,6 +1633,51 @@ MonoBehaviour:
       m_Data: []
   m_Knots:
     m_KnotsLink: []
+--- !u!1 &1097303058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1097303060}
+  - component: {fileID: 1097303059}
+  m_Layer: 0
+  m_Name: CardViewHoverSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1097303059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1097303058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb1d057a68474ce8d90a74a7a5a87148, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CardViewHoverSystem
+  cardViewHover: {fileID: 379603684}
+--- !u!4 &1097303060
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1097303058}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.33821, y: -2.78036, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1109894151
 GameObject:
   m_ObjectHideFlags: 0
@@ -2076,8 +2219,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 092bcc7b451a6a574940f33f021d18b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TestSystem
-  handView: {fileID: 0}
-  cardData: {fileID: 0}
+  handView: {fileID: 1002982351}
+  cardData: {fileID: 11400000, guid: 12314de5b4d95ebbfb7d69046662412f, type: 2}
 --- !u!1 &2062487717
 GameObject:
   m_ObjectHideFlags: 0
@@ -2180,3 +2323,5 @@ SceneRoots:
   - {fileID: 1109894152}
   - {fileID: 442612374}
   - {fileID: 2012480990}
+  - {fileID: 1097303060}
+  - {fileID: 980580863}
