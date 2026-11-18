@@ -5,7 +5,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.Splines;
 
-public class HanView : MonoBehaviour
+public class HandView : MonoBehaviour
 {
     [SerializeField] private SplineContainer splineContainer;
 

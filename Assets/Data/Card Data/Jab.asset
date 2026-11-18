@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 877f1055d3931ce92b3a0ed5877922ba, type: 3}
+  m_Name: Jab
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  <Description>k__BackingField: +1 Attack
+  <Stamina>k__BackingField: 2
+  <Image>k__BackingField: {fileID: 7152738474294892864, guid: 7a8e2fc84dcf417deb4586f348a87efe, type: 3}
