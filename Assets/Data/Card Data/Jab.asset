@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +1 Attack
   <Stamina>k__BackingField: 2
   <Image>k__BackingField: {fileID: 7152738474294892864, guid: 7a8e2fc84dcf417deb4586f348a87efe, type: 3}
+  <Effect>k__BackingField: 0
+  <Amount>k__BackingField: 1
+  <AnimationState>k__BackingField: jab

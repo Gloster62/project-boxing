@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +2 Attack
   <Stamina>k__BackingField: 4
   <Image>k__BackingField: {fileID: -1439025587341998365, guid: f00fb44fe0049c48d8b3b79fccd3b1a2, type: 3}
+  <Effect>k__BackingField: 0
+  <Amount>k__BackingField: 2
+  <AnimationState>k__BackingField: cross

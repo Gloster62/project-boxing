@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +5 Block
   <Stamina>k__BackingField: 3
   <Image>k__BackingField: {fileID: -6363147629802698015, guid: 8dc154f5cba9f0d36ab65fe4dc16ca5b, type: 3}
+  <Effect>k__BackingField: 1
+  <Amount>k__BackingField: 5
+  <AnimationState>k__BackingField: block

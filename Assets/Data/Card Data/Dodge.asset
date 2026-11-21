@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +10 Defense
   <Stamina>k__BackingField: 7
   <Image>k__BackingField: {fileID: 1059985105109762309, guid: c780872c5f0b3e384b35ea66564fad0b, type: 3}
+  <Effect>k__BackingField: 2
+  <Amount>k__BackingField: 10
+  <AnimationState>k__BackingField: dodge1

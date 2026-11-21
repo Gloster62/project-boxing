@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using UnityEngine;
 
@@ -10,6 +11,7 @@ public class CardView : MonoBehaviour
     [SerializeField] private GameObject wrapper;
     
     public Card Card { get; private set;}
+    public event Action<CardView> Clicked;
 
     public void Setup(Card card)
     {
@@ -22,6 +24,7 @@ public class CardView : MonoBehaviour
 
     void OnMouseEnter()
     {
+        if (Card == null || CardViewHoverSystem.Instance == null) return;
         wrapper.SetActive(false);
         Vector3 pos = new(transform.position.x, -2, 0);
         CardViewHoverSystem.Instance.Show(Card, pos);
@@ -29,7 +32,18 @@ public class CardView : MonoBehaviour
 
     void OnMouseExit()
     {
-        CardViewHoverSystem.Instance.Hide();
+        if (CardViewHoverSystem.Instance != null) CardViewHoverSystem.Instance.Hide();
         wrapper.SetActive(true);
+    }
+
+    public void SetHandVisible(bool visible)
+    {
+        if (visible) wrapper.SetActive(true);
+        gameObject.SetActive(visible);
+    }
+
+    private void OnMouseUpAsButton()
+    {
+        Clicked?.Invoke(this);
     }
 }

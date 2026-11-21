@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +3 Attack
   <Stamina>k__BackingField: 5
   <Image>k__BackingField: {fileID: -8273109101785484699, guid: 80b7b7189129c7f48ad69ff6608cffc9, type: 3}
+  <Effect>k__BackingField: 0
+  <Amount>k__BackingField: 3
+  <AnimationState>k__BackingField: uppercut

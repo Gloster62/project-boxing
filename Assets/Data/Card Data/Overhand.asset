@@ -15,3 +15,6 @@ MonoBehaviour:
   <Description>k__BackingField: +7 Attack
   <Stamina>k__BackingField: 7
   <Image>k__BackingField: {fileID: -9138530340161291903, guid: aa34606c92de14d648f5779c4110aaba, type: 3}
+  <Effect>k__BackingField: 0
+  <Amount>k__BackingField: 7
+  <AnimationState>k__BackingField: overhand
